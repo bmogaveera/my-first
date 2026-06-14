@@ -1,2 +1,2 @@
 ﻿# my-first repo
-This is my frst repo...im learning git!
+This is my frst repo..
